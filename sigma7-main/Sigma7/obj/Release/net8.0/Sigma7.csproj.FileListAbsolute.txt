@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Desktop\sigma7-main\Sigma7\bin\Release\net8.0\Sigma7.exe
+C:\Users\User\OneDrive\Desktop\sigma7-main\Sigma7\bin\Release\net8.0\Sigma7.deps.json
+C:\Users\User\OneDrive\Desktop\sigma7-main\Sigma7\bin\Release\net8.0\Sigma7.runtimeconfig.json
+C:\Users\User\OneDrive\Desktop\sigma7-main\Sigma7\bin\Release\net8.0\Sigma7.dll
+C:\Users\User\OneDrive\Desktop\sigma7-main\Sigma7\bin\Release\net8.0\Sigma7.pdb
+C:\Users\User\OneDrive\Desktop\sigma7-main\Sigma7\obj\Release\net8.0\Sigma7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\sigma7-main\Sigma7\obj\Release\net8.0\Sigma7.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\sigma7-main\Sigma7\obj\Release\net8.0\Sigma7.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\sigma7-main\Sigma7\obj\Release\net8.0\Sigma7.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\sigma7-main\Sigma7\obj\Release\net8.0\Sigma7.dll
+C:\Users\User\OneDrive\Desktop\sigma7-main\Sigma7\obj\Release\net8.0\refint\Sigma7.dll
+C:\Users\User\OneDrive\Desktop\sigma7-main\Sigma7\obj\Release\net8.0\Sigma7.pdb
+C:\Users\User\OneDrive\Desktop\sigma7-main\Sigma7\obj\Release\net8.0\Sigma7.genruntimeconfig.cache
+C:\Users\User\OneDrive\Desktop\sigma7-main\Sigma7\obj\Release\net8.0\ref\Sigma7.dll
